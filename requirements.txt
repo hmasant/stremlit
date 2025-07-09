@@ -1,0 +1,7 @@
+pydantic
+elevenlab
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-openai
